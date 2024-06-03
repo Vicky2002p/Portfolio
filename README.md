@@ -1,2 +1,0 @@
-# Portfolio
-Demo React Portfolio
