@@ -52,11 +52,11 @@ export default function Home() {
               className="w-full md:w-2/3 text-wheat-700 text-lg"
             >
               <p>
-                I'm Vivek Patel, a software engineering graduate from the University of Windsor (BSc,
+                I&apos;m Vivek Patel, a software engineering graduate from the University of Windsor (BSc,
                 Computer Science, May 2021 – Dec 2024). I specialize in building efficient, user-friendly
                 applications using Python, React, and SQL. My experience spans full-stack development,
                 data visualization, and system optimization, with a passion for turning complex
-                requirements into innovative solutions. Based in Mississauga, ON, I'm eager to
+                requirements into innovative solutions. Based in Mississauga, ON, I&apos;m eager to
                 contribute to impactful software development projects.
               </p>
             </motion.div>
