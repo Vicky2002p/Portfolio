@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Emergency Room Triaging Simulation",
+    "description": "A web-based simulation using Python and Mesa to model an emergency room, where a doctor navigates a 2D field to triage patients based on health conditions and proximity. Features dynamic health decrease, curing logic, and an interactive front-end with real-time efficiency graphs.",
+    "techStack": ["Python", "Mesa", "JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/emergency-room-triaging",
+    "image": "/images/project1.jpg"
+  },
+  {
+    "title": "Music Emotion Detection Platform",
+    "description": "An AI-powered platform to detect emotions in audio files with 90% accuracy. Built with Flask for audio processing and Charts.js for visualizing detected emotions, enhancing user data interpretation.",
+    "techStack": ["Python", "Flask", "Librosa", "JavaScript", "Charts.js"],
+    "githubLink": "https://github.com/Vicky2002p/music-emotion-detection",
+    "image": "/images/project2.jpg"
+  },
+  {
+    "title": "Django Feedback Portal",
+    "description": "A feedback portal built with Django and MySQL, improving data navigation and processing efficiency by 20%. Features secure data handling and a user-friendly interface.",
+    "techStack": ["Python", "Django", "MySQL", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/django-feedback-portal",
+    "image": "/images/project3.jpg"
+  },
+  {
+    "title": "OOP Game Demo",
+    "description": "A game demonstrating Object-Oriented Programming principles, built with Python. Showcases inheritance, polymorphism, and encapsulation in an interactive format.",
+    "techStack": ["Python"],
+    "githubLink": "https://github.com/Vicky2002p/oop-game-demo",
+    "image": "/images/project4.jpg"
+  },
+  {
+    "title": "SilverHub Jewellery Store",
+    "description": "A React-based e-commerce website for SilverHub, a jewellery store in Ahmedabad, Gujarat. Features a responsive design showcasing gold, silver, and diamond jewellery with product browsing and contact details.",
+    "techStack": ["React", "JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/VCSilverHub",
+    "liveLink": "https://vicky2002p.github.io/vcHTML.github.io/",
+    "image": "/images/project5.jpg"
+  },
+  {
+    "title": "Visited Countries Tracker",
+    "description": "A web application to track visited places on an interactive map, allowing users to mark and visualize locations across different countries.",
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/visitedCountries.github.io",
+    "image": "/images/project6.jpg"
+  },
+  {
+    "title": "Dynamic User Interface",
+    "description": "A dynamic login interface built with HTML, CSS, and JavaScript, featuring responsive design and interactive elements for user authentication.",
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/DynamicUserInterface.github.io",
+    "image": "/images/project7.jpg"
+  },
+  {
+    "title": "ShopCart",
+    "description": "A Python-based application using Tkinter to simulate a shopping cart. Users can add/remove products, track quantities, and manage stock with a simple GUI.",
+    "techStack": ["Python", "Tkinter", "PIL"],
+    "githubLink": "https://github.com/Vicky2002p/shopCart",
+    "image": "/images/project8.jpg"
+  },
+  {
+    "title": "Sequence Game",
+    "description": "A web-based implementation of the Sequence board game, where players mark cards on a board with chips. Features an interactive interface for gameplay.",
+    "techStack": ["JavaScript", "HTML", "CSS"],
+    "githubLink": "https://github.com/Vicky2002p/sequence.github.io",
+    "liveLink": "https://vicky2002p.github.io/sequence.github.io/",
+    "image": "/images/project9.jpg"
+  }
+]
