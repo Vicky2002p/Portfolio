@@ -30,11 +30,11 @@ export default function Hero() {
   }, []);
 
   const greetings = [
-    { text: "Hello, I am", name: "Vivek Patel", lang: "English" },
-    { text: "नमस्ते, मैं", name: "विवेक पटेल", lang: "Hindi" },
-    { text: "Bonjour, je suis", name: "Vivek Patel", lang: "French" },
-    { text: "Hola, soy", name: "Vivek Patel", lang: "Spanish" },
-    { text: "નમસ્તે, હું", name: "વિવેક પટેલ", lang: "Gujarati" },
+    { text: "Hello, I am", name: "Vihvek Patel", lang: "English" },
+    { text: "नमस्ते, मैं", name: "विह्वेक पटेल", lang: "Hindi" },
+    { text: "Bonjour, je suis", name: "Vihvek Patel", lang: "French" },
+    { text: "Hola, soy", name: "Vihvek Patel", lang: "Spanish" },
+    { text: "નમસ્તે, હું", name: "વિહ્વેક પટેલ", lang: "Gujarati" },
   ];
 
   const [currentGreeting, setCurrentGreeting] = useState(0);

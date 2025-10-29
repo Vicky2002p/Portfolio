@@ -37,7 +37,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-mahogany rounded-full blur-2xl opacity-20 group-hover:opacity-30 transition-opacity duration-300"></div>
                 <Image
                   src="/images/profile.jpg"
-                  alt="Vivek Patel"
+                  alt="Vihvek Patel"
                   width={300}
                   height={300}
                   className="relative rounded-full shadow-xl border-4 border-wheat-500 object-cover"
@@ -55,7 +55,7 @@ export default function Home() {
               className="w-full md:w-2/3"
             >
               <p className="text-wheat-600 text-lg leading-relaxed mb-4">
-                I&apos;m Vivek Patel, a software engineering graduate from the University of Windsor (BSc,
+                I&apos;m Vihvek Patel, a software engineering graduate from the University of Windsor (BSc,
                 Computer Science, May 2021 – Dec 2024). I specialize in building efficient, user-friendly
                 applications using Python, React, and SQL.
               </p>

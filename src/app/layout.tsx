@@ -4,8 +4,8 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 
 export const metadata: Metadata = {
-  title: 'Vivek Patel | Software Engineer',
-  description: 'Portfolio of Vivek Patel, a software engineering graduate showcasing full-stack development projects and skills.',
+  title: 'Vihvek Patel | Software Engineer',
+  description: 'Portfolio of Vihvek Patel, a software engineering graduate showcasing full-stack development projects and skills.',
 };
 
 export default function RootLayout({
