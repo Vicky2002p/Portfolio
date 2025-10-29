@@ -1,5 +1,20 @@
 [
   {
+    "title": "BuildSync",
+    "description": "A comprehensive project management platform for builders and clients. Features 3D model visualization with dynamic weather effects, real-time project tracking, financial management for pending payments, linked 2D floor plans, and a client portal. Clients can view apartment details, manage notes visible to builders, access project documents, and track deal agreements.",
+    "techStack": ["React", "Three.js", "Node.js", "MongoDB", "WebSocket", "3D Graphics"],
+    "githubLink": "https://github.com/vicky2002p/BuildSync",
+    "image": "/images/project11.jpg"
+  },
+  {
+    "title": "Vita - Todo List",
+    "description": "A modern, responsive task management application with drag-and-drop functionality, deadline tracking, and priority levels. Features a beautiful glassmorphism UI with real-time task updates and completion tracking.",
+    "techStack": ["React", "Vite", "JavaScript", "@dnd-kit", "CSS3"],
+    "githubLink": "https://github.com/vicky2002p/Todo",
+    "liveLink": "https://vicky2002p.github.io/Todo/",
+    "image": "/images/project10.jpg"
+  },
+  {
     "title": "Emergency Room Triaging Simulation",
     "description": "A web-based simulation using Python and Mesa to model an emergency room, where a doctor navigates a 2D field to triage patients based on health conditions and proximity. Features dynamic health decrease, curing logic, and an interactive front-end with real-time efficiency graphs.",
     "techStack": ["Python", "Mesa", "JavaScript", "HTML", "CSS"],
