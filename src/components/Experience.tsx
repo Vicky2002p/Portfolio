@@ -12,6 +12,19 @@ interface Experience {
 
 const experiences: Experience[] = [
   {
+    company: 'Mednow INC',
+    role: 'Full-Stack Developer',
+    location: 'Remote',
+    duration: 'Nov 2025 – Present',
+    achievements: [
+      'Architected and deployed 3 comprehensive web applications and contributed to a cross-platform mobile app (Android & iOS) from end to end.',
+      'Spearheaded back-end architecture and database schema design, ensuring scalable and highly optimized data flow.',
+      'Defined core system logic and actively participated in high-level project planning and critical system design decisions.',
+      'Assumed full ownership over the technical stack, streamlining full-stack implementation to deliver robust, production-ready solutions.',
+      'Bridged complex back-end operations with seamless user interfaces, maintaining strict engineering standards.'
+    ],
+  },
+  {
     company: 'Koch Technologies',
     role: 'Full-stack Developer',
     location: 'Remote',
